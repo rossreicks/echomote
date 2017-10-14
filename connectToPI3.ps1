@@ -1,0 +1,1 @@
+D:\\Programs\putty\plink.exe -R 52698:127.0.0.1:52698 pi@192.168.1.30

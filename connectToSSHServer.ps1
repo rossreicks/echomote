@@ -1,0 +1,1 @@
+D://Programs/putty/plink.exe -i "C://Users/rjrei/Documents/projects/keys/echomote-key-pair.ppk" -R 52698:127.0.0.1:52698 ec2-user@ec2-34-229-48-21.compute-1.amazonaws.com
